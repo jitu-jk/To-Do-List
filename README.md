@@ -115,12 +115,13 @@ License
 Distributed under the MIT License. See LICENSE for more information. 📄
 
 <!-- CONTACT -->
-Contact
-Project Link: https://jitu-jk.github.io/To-Do-List<br/>
-LinkedIn - Jitesh Kumar<br/>
+<!-- CONTACT -->
+<h2>Contact</h2>
 
-Project Link: https://jitu-jk.github.io/WeatherForecast_App<br/>
-LinkedIn - Jitesh Kumar<br/>
+<p>
+  Project Link: <a href="https://jitu-jk.github.io/To-Do-List/">To-Do List Application</a><br/>
+  LinkedIn - <a href="https://www.linkedin.com/in/jitesh-kumar-183a4a19b/">Jitesh Kumar</a><br/>
+</p>
 
 This project was bootstrapped with Create React App. 🌟
 
