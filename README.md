@@ -25,7 +25,7 @@
 A simple and efficient To-Do List application built using ReactJS, HTML5, CSS3, and JavaScript. This project demonstrates how to create a dynamic and interactive task management application with functionalities to add, view, edit, and delete tasks.
 
 <p align="center">
-  <img src="path-to-screenshot.png" alt="App Screenshot" />
+  <img src="Screenshot (60).png" alt="App Screenshot" />
 </p>
 
 <!-- FEATURES -->
