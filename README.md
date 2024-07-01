@@ -1,6 +1,6 @@
 <h1 align="center">To-Do List Application</h1>
 <p align="center">
-  <a href="https://your-github-jitu-jk.github.io/To-Do-List/"><b>Live Site</b></a>
+  <a href="https://jitu-jk.github.io/To-Do-List/"><b>Live Site</b></a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
