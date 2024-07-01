@@ -26,6 +26,7 @@ A simple and efficient To-Do List application built using ReactJS, HTML5, CSS3, 
 
 <p align="center">
   <img src="Screenshot (60).png" alt="App Screenshot" />
+  <img src="Screenshot (61).png" alt="App Screenshot" />
 </p>
 
 <!-- FEATURES -->
