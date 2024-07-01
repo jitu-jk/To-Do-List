@@ -1,0 +1,102 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column; 
+  justify-content: flex-start; 
+  align-items: center;
+  height: 100vh;
+  background-color: #402E7A;
+}
+
+.Header {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 400;
+  color: aliceblue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+.App {
+  background: #4C3BCF;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  width: 400px;
+  max-width: 90%;
+}
+.container{
+  text-align: center;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  flex-grow: 1;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  background: #5849d1;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+li span {
+  cursor: pointer;
+  flex-grow: 1;
+}
+
+li button {
+  margin-left: 10px;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+li .FaEdit,
+li .FaTrash {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+li .FaCheck {
+  margin-left: 10px;
+  cursor: pointer;
+}
