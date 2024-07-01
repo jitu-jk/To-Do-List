@@ -1,11 +1,11 @@
-<h1 align="center">To-Do List Application</h1>
+<h1 align="center">📝 To-Do List Application</h1>
 <p align="center">
-  <a href="https://jitu-jk.github.io/To-Do-List/"><b>Live Site</b></a>
+  <a href="https://jitu-jk.github.io/To-Do-List/"><b>🌐 Live Site</b></a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>📋 Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#features">Features</a></li>
@@ -25,18 +25,18 @@
 A simple and efficient To-Do List application built using ReactJS, HTML5, CSS3, and JavaScript. This project demonstrates how to create a dynamic and interactive task management application with functionalities to add, view, edit, and delete tasks.
 
 <p align="center">
-  <img src="Screenshot (60).png" alt="App Screenshot" />
-  <img src="Screenshot (61).png" alt="App Screenshot" />
+  <img src="Screenshot (60).png" alt="App Screenshot" width="400"/>
+  <img src="Screenshot (61).png" alt="App Screenshot" width="400"/>
 </p>
 
 <!-- FEATURES -->
 ## Features
-- **Add Tasks**: Easily add tasks to your to-do list.
-- **View Tasks**: View all tasks in an organized list.
-- **Edit Tasks**: Edit tasks to keep your list updated.
-- **Delete Tasks**: Remove tasks that are no longer needed.
-- **Task Completion**: Mark tasks as completed without deleting them.
-- **Persistent Storage**: Tasks are saved in local storage, ensuring they persist across sessions.
+- ✅ **Add Tasks**: Easily add tasks to your to-do list.
+- 👀 **View Tasks**: View all tasks in an organized list.
+- ✏️ **Edit Tasks**: Edit tasks to keep your list updated.
+- ❌ **Delete Tasks**: Remove tasks that are no longer needed.
+- ✔️ **Task Completion**: Mark tasks as completed without deleting them.
+- 💾 **Persistent Storage**: Tasks are saved in local storage, ensuring they persist across sessions.
 
 <!-- INSTALLATION -->
 ## Installation
